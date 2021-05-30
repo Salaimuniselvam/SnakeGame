@@ -1,4 +1,4 @@
-package com.SnakeGame;
+
 
 import java.awt.Color;
 import java.awt.Font;
@@ -17,6 +17,8 @@ public class GamePlay extends JPanel implements KeyListener, ActionListener {
 //Part1_2
 	
 	/**
+	 * 
+	 * author Salaimuniselvam
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
